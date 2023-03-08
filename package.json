@@ -1,0 +1,11 @@
+{
+  "name": "copy-mianshiya",
+  "version": "1.0.0",
+  "description": "参考鱼皮的面试鸭项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
